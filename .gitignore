@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.log
+# bulk data stays out of git; scripts + seeds are versioned
+data/raw/
+data/interim/
+data/processed/
+data/tev/
